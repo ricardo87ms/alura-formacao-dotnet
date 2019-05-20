@@ -13,14 +13,14 @@ namespace _06_ByteBank
             ContaCorrente conta = new ContaCorrente();
             Cliente cliente = new Cliente();
 
-            cliente.nome = "Ricardo";
-            cliente.cpf = "345.879.978-35";
-            cliente.profissao = "Analista de Sistemas";
+            cliente.Nome = "Ricardo";
+            cliente.CPF = "345.879.978-35";
+            cliente.Profissao = "Analista de Sistemas";
 
             conta.Saldo = 10;
             conta.Titular = cliente;
 
-            Console.WriteLine(conta.Titular.nome);
+            Console.WriteLine(conta.Titular.Nome);
             Console.WriteLine(conta.Saldo);
 
             Console.ReadKey();
