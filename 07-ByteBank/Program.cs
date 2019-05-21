@@ -10,6 +10,8 @@ namespace _07_ByteBank
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
             ContaCorrente conta = new ContaCorrente(879, 8898977);
 
             //conta.Agencia = 879;
@@ -19,6 +21,12 @@ namespace _07_ByteBank
 
             Console.WriteLine(conta.Agencia);
             Console.WriteLine(conta.Numero);
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
+
+            ContaCorrente contaRicardo = new ContaCorrente(879, 8898988);
+
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
             Console.ReadKey();
         }
