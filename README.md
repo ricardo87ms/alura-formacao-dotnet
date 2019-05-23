@@ -24,6 +24,12 @@ Após o download, o mesmo pode ser aberto no Visual Studio, sua execução poder
 
 Este projeto está sendo desenvolvido utilizando o Visual Studio Community 2019.
 
+### Comandos utilizados
+
+```
+
+```
+
 ## Contribuição
 
 Como este é um projeto de um curso, não são necessárias contribuições, mais caso tenha interesse, é só enviar um pull request.
@@ -35,9 +41,3 @@ Como este é um projeto de um curso, não são necessárias contribuições, mai
 ## Licença
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Comandos utilizados
-
-```
-
-```
