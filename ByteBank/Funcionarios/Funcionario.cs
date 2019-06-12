@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
-    class Funcionario
+    abstract class Funcionario
     {
         public string Nome { get; set; }
         public string CPF { get; private set; }
