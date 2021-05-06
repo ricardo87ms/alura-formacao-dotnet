@@ -4,20 +4,20 @@ Repositório dos cursos que fazem parte da formação **C# e orientação a obje
 
 ## Cursos
 
-* [C# parte 1: Primeiros passos](01-primeiros-passos)
-* [C# parte 2: Introdução à Orientação a Objetos](02-introducao-orientacao-objeto)
+* [C# parte 1: Primeiros passos](01-primeiros-passos) - ✅ [Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-1-primeiros-passos)
+* [C# parte 2: Introdução à Orientação a Objetos](02-introducao-orientacao-objeto) - ✅ [Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-2-introducao-orientacao-objetos)
 
 ## Linguagem
 
 Neste curso a linguagem de programação utilizada é o **C#**.
 
-## Utilização
+## Informações
 
 Este projeto está sendo desenvolvido com o **Visual Studio Community**.
 
 ## Contribuição
 
-Projeto de estudo.
+Projeto de estudos.
 
 ## Autor
 
