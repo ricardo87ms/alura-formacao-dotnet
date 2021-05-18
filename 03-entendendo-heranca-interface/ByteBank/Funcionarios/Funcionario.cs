@@ -8,11 +8,11 @@ namespace ByteBank.Funcionarios
 {
     class Funcionario
     {
-        public string nome { get; set; }
+        public string Nome { get; set; }
         public string CPF { get; set; }
         public double Salario { get; set; }
 
-        public double GetBonificacao()
+        public virtual double GetBonificacao()
         {
             return this.Salario * 0.10;
         }
