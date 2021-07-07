@@ -6,7 +6,7 @@ Repositório dos cursos que fazem parte da formação **C# e orientação a obje
 
 * [C# parte 1: Primeiros passos](01-primeiros-passos) - ✅ [Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-1-primeiros-passos)
 * [C# parte 2: Introdução à Orientação a Objetos](02-introducao-orientacao-objeto) - ✅ [Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-2-introducao-orientacao-objetos)
-* [C# parte 3: Entendendo herança e interface](03-entendendo-heranca-interface) 💻 Em andamento
+* [C# parte 3: Entendendo herança e interface](03-entendendo-heranca-interface) - ✅ [Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-3-heranca-interfaces-polimorfismo)
 
 ## Linguagem
 
