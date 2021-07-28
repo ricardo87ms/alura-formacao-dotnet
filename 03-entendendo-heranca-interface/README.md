@@ -21,5 +21,4 @@ Para a execução deste projeto, abra a solução no Visual Studio, e execute (F
 
 ## Status
 
-**Em Andamento**
-<!-- [Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-2-introducao-orientacao-objetos) -->
+[Certificado](https://cursos.alura.com.br/certificate/ricardo87ms/csharp-parte-3-heranca-interfaces-polimorfismo)
